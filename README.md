@@ -18,7 +18,7 @@ pip install htbctl
 
 ## Setup
 
-1. Go to https://app.hackthebox.com/account-settings → **App Tokens** → **Add New Token**
+1. Go to https://app.hackthebox.com/account-settings → **API Tokens** → **Add New Token**
 2. Save the token in any of these locations (checked in order):
 
 ```bash
